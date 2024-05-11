@@ -1,0 +1,15 @@
+{
+  "name": "sweetcraft",
+  "version": "1.1.0",
+  "description": "Code javascript faster with pre-write functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mwrdev",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.8.9",
+    "typescript": "^5.2.2"
+  }
+}
