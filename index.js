@@ -1,6 +1,6 @@
 
 import { scrollToSection, isMobileDevice } from './tools/tool';
-
+import animations from './animations/animation';
 
 module.exports = {
     greet: function(name) {
@@ -8,4 +8,5 @@ module.exports = {
     },
     scrollToSection: scrollToSection,
     isMobileDevice: isMobileDevice,
+    animations: animations,
   };
